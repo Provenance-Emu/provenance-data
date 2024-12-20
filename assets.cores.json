@@ -3214,32 +3214,32 @@
     "type": "directory",
     "children": [
       {
-        "name": "Commander Keen 1 - Marooned on Mars (1990).zip",
-        "location": "https://buildbot.libretro.com/assets/cores/DOS/Commander%20Keen%201%20-%20Marooned%20on%20Mars%20%281990%29.zip",
+        "name": "Commander Keen 1 - Marooned on Mars (1990).dosz",
+        "location": "https://buildbot.libretro.com/assets/cores/DOS/Commander%20Keen%201%20-%20Marooned%20on%20Mars%20%281990%29.dosz",
         "size": 151000,
         "iconUrl": "https://buildbot.libretro.com/_h5ai/public/images/fallback/file.png",
         "dateModified": "2024-12-17T23:33:00.000",
         "type": "file"
       },
       {
-        "name": "Commander Keen 4 - Secret of the Oracle (1991).zip",
-        "location": "https://buildbot.libretro.com/assets/cores/DOS/Commander%20Keen%204%20-%20Secret%20of%20the%20Oracle%20%281991%29.zip",
+        "name": "Commander Keen 4 - Secret of the Oracle (1991).dosz",
+        "location": "https://buildbot.libretro.com/assets/cores/DOS/Commander%20Keen%204%20-%20Secret%20of%20the%20Oracle%20%281991%29.dosz",
         "size": 587000,
         "iconUrl": "https://buildbot.libretro.com/_h5ai/public/images/fallback/file.png",
         "dateModified": "2024-12-17T23:33:00.000",
         "type": "file"
       },
       {
-        "name": "Raptor - Call of the Shadows (1999).zip",
-        "location": "https://buildbot.libretro.com/assets/cores/DOS/Raptor%20-%20Call%20of%20the%20Shadows%20%281999%29.zip",
+        "name": "Raptor - Call of the Shadows (1999).dosz",
+        "location": "https://buildbot.libretro.com/assets/cores/DOS/Raptor%20-%20Call%20of%20the%20Shadows%20%281999%29.dosz",
         "size": 1843000,
         "iconUrl": "https://buildbot.libretro.com/_h5ai/public/images/fallback/file.png",
         "dateModified": "2024-12-17T23:33:00.000",
         "type": "file"
       },
       {
-        "name": "Wolfenstein 3D (1991).zip",
-        "location": "https://buildbot.libretro.com/assets/cores/DOS/Wolfenstein%203D%20%281991%29.zip",
+        "name": "Wolfenstein 3D (1991).dosz",
+        "location": "https://buildbot.libretro.com/assets/cores/DOS/Wolfenstein%203D%20%281991%29.dosz",
         "size": 680000,
         "iconUrl": "https://buildbot.libretro.com/_h5ai/public/images/fallback/file.png",
         "dateModified": "2024-12-17T23:33:00.000",
