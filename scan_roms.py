@@ -146,8 +146,8 @@ def scan_roms_folder(base_path: str) -> Dict:
 
         # Scan contents of system folder
         for file_path in system_dir.iterdir():
-            # Only process ROM files (zip files)
-            if file_path.suffix.lower() != '.zip':
+            # Process ROM files (zip and dosz files)
+            if file_path.suffix.lower() not in ['.zip', '.dosz']:
                 continue
 
             rom_count += 1

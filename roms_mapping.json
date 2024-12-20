@@ -598,23 +598,39 @@
     ]
   },
   "com.provenance.dos": {
-    "count": 4,
+    "count": 8,
     "roms": [
       {
-        "file": "Commander Keen 4 - Secret of the Oracle (1991).dosz",
-        "size": 587627
-      },
-      {
-        "file": "Wolfenstein 3D (1991).dosz",
-        "size": 680866
+        "file": "Commander Keen 1 - Marooned on Mars (1990).dosz",
+        "size": 151265
       },
       {
         "file": "Raptor - Call of the Shadows (1999).dosz",
         "size": 1843559
       },
       {
-        "file": "Commander Keen 1 - Marooned on Mars (1990).dosz",
-        "size": 151265
+        "file": "Battle Cheese.dosz",
+        "size": 896525
+      },
+      {
+        "file": "Jazz jackrabit.dosz",
+        "size": 1397588
+      },
+      {
+        "file": "Commander Keen 4 - Secret of the Oracle (1991).dosz",
+        "size": 587627
+      },
+      {
+        "file": "Terminal Velocity.dosz",
+        "size": 3769192
+      },
+      {
+        "file": "Wolfenstein 3D (1991).dosz",
+        "size": 680866
+      },
+      {
+        "file": "Scorched Earth.dosz",
+        "size": 706934
       }
     ]
   },
