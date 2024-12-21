@@ -29,7 +29,7 @@
       },
       {
         "file": "30 Years Of Nintendont.zip",
-        "size": 182790,
+        "size": 219840,
         "artwork": {
           "cover": "30 Years Of Nintendont-cover.png",
           "screenshot": "30 Years Of Nintendont-screenshot.png"
@@ -37,42 +37,42 @@
       },
       {
         "file": "Alter Ego.zip",
-        "size": 239696,
+        "size": 245760,
         "artwork": {
           "screenshot": "Alter Ego-screenshot.png"
         }
       },
       {
         "file": "Break An Egg.zip",
-        "size": 88833,
+        "size": 156631,
         "artwork": {
           "cover": "Break An Egg-cover.jpg"
         }
       },
       {
         "file": "Downforce (USA) (Demo).zip",
-        "size": 144530,
+        "size": 153046,
         "artwork": {
           "screenshot": "Downforce (USA) (Demo)-screenshot.png"
         }
       },
       {
         "file": "FoxLand Demo.zip",
-        "size": 247388,
+        "size": 255362,
         "artwork": {
           "screenshot": "FoxLand Demo-screenshot.png"
         }
       },
       {
         "file": "glufPD.zip",
-        "size": 293975,
+        "size": 467203,
         "artwork": {
           "screenshot": "glufPD-screenshot.jpg"
         }
       },
       {
         "file": "Gravibots.zip",
-        "size": 333037,
+        "size": 393759,
         "artwork": {
           "cover": "Gravibots-cover.jpg",
           "screenshot": "Gravibots-screenshot.jpg"
@@ -80,7 +80,7 @@
       },
       {
         "file": "Old Towers.zip",
-        "size": 241677,
+        "size": 776615,
         "artwork": {
           "cover": "Old Towers-cover.jpg",
           "screenshot": "Old Towers-screenshot.png"
@@ -92,21 +92,21 @@
       },
       {
         "file": "Thunder Paw Demo.zip",
-        "size": 346833,
+        "size": 694602,
         "artwork": {
           "cover": "Thunder Paw Demo-cover.jpg"
         }
       },
       {
         "file": "tourmaline.zip",
-        "size": 206820,
+        "size": 595034,
         "artwork": {
           "cover": "tourmaline-cover.jpg"
         }
       },
       {
         "file": "Ultimate Tetris.zip",
-        "size": 330406,
+        "size": 407888,
         "artwork": {
           "screenshot": "Ultimate Tetris-screenshot.png"
         }
@@ -118,7 +118,7 @@
     "roms": [
       {
         "file": "Alien Arena.zip",
-        "size": 16557,
+        "size": 112796,
         "artwork": {
           "cover": "Alien Arena-cover.jpg",
           "screenshot": "Alien Arena-screenshot.jpg"
@@ -131,7 +131,7 @@
     "roms": [
       {
         "file": "4-Tris.zip",
-        "size": 10214,
+        "size": 87632,
         "artwork": {
           "cover": "4-Tris-cover.jpg",
           "screenshot": "4-Tris-screenshot.jpg"
@@ -162,7 +162,7 @@
     "roms": [
       {
         "file": "Gears of Fate.zip",
-        "size": 897026,
+        "size": 905223,
         "artwork": {
           "screenshot": "Gears of Fate-screenshot.png"
         }
@@ -174,7 +174,7 @@
     "roms": [
       {
         "file": "240pTestSuitePS1-EMU.zip",
-        "size": 210975,
+        "size": 415538,
         "artwork": {
           "cover": "240pTestSuitePS1-EMU-cover.jpg"
         }
@@ -451,14 +451,14 @@
     "roms": [
       {
         "file": "240p Test Suite.zip",
-        "size": 29086,
+        "size": 38069,
         "artwork": {
           "screenshot": "240p Test Suite-screenshot.png"
         }
       },
       {
         "file": "Alter Ego.zip",
-        "size": 18677,
+        "size": 41282,
         "artwork": {
           "cover": "Alter Ego-cover.jpg",
           "screenshot": "Alter Ego-screenshot.jpg"
@@ -466,14 +466,14 @@
       },
       {
         "file": "Bobl (v1.1).zip",
-        "size": 41684,
+        "size": 212302,
         "artwork": {
           "cover": "Bobl (v1.1)-cover.jpg"
         }
       },
       {
         "file": "Chrono Knight.zip",
-        "size": 36173,
+        "size": 134657,
         "artwork": {
           "cover": "Chrono Knight-cover.jpg"
         }
@@ -492,7 +492,7 @@
       },
       {
         "file": "Indivisible.zip",
-        "size": 95595,
+        "size": 205155,
         "artwork": {
           "cover": "Indivisible-cover.jpg"
         }
@@ -503,7 +503,7 @@
       },
       {
         "file": "Nova the Squirrel.zip",
-        "size": 137828,
+        "size": 264026,
         "artwork": {
           "cover": "Nova the Squirrel-cover.jpg",
           "screenshot": "Nova the Squirrel-screenshot.jpg"
@@ -523,7 +523,7 @@
       },
       {
         "file": "PROTO DERE.zip",
-        "size": 31431,
+        "size": 159704,
         "artwork": {
           "cover": "PROTO DERE-cover.jpg",
           "screenshot": "PROTO DERE-screenshot.jpg"
@@ -535,28 +535,28 @@
       },
       {
         "file": "Shadow Animus.zip",
-        "size": 39345,
+        "size": 371534,
         "artwork": {
           "cover": "Shadow Animus-cover.jpg"
         }
       },
       {
         "file": "Spacegulls (v1.1).zip",
-        "size": 40682,
+        "size": 231305,
         "artwork": {
           "cover": "Spacegulls (v1.1)-cover.jpg"
         }
       },
       {
         "file": "Super Bat Puncher (Demo).zip",
-        "size": 53983,
+        "size": 67727,
         "artwork": {
           "cover": "Super Bat Puncher (Demo)-cover.jpg"
         }
       },
       {
         "file": "Super Tilt Bro (Europe).zip",
-        "size": 59504,
+        "size": 253398,
         "artwork": {
           "cover": "Super Tilt Bro (Europe)-cover.jpg",
           "screenshot": "Super Tilt Bro (Europe)-screenshot.jpg"
@@ -564,7 +564,7 @@
       },
       {
         "file": "Super Tilt Bro (USA).zip",
-        "size": 17317,
+        "size": 109246,
         "artwork": {
           "cover": "Super Tilt Bro (USA)-cover.jpg",
           "screenshot": "Super Tilt Bro (USA)-screenshot.jpg"
@@ -572,7 +572,7 @@
       },
       {
         "file": "Teletime (Homebrew).zip",
-        "size": 16298,
+        "size": 21482,
         "artwork": {
           "screenshot": "Teletime (Homebrew)-screenshot.png"
         }
@@ -583,7 +583,7 @@
       },
       {
         "file": "The Tower of Turmoil (v1.03).zip",
-        "size": 58784,
+        "size": 553512,
         "artwork": {
           "cover": "The Tower of Turmoil (v1.03)-cover.jpg"
         }
@@ -594,7 +594,7 @@
       },
       {
         "file": "Twin Dragons.zip",
-        "size": 38186,
+        "size": 1002120,
         "artwork": {
           "cover": "Twin Dragons-cover.jpg",
           "screenshot": "Twin Dragons-screenshot.jpg"
@@ -602,7 +602,7 @@
       },
       {
         "file": "What Remains (v1.0.2).zip",
-        "size": 218060,
+        "size": 273822,
         "artwork": {
           "cover": "What Remains (v1.0.2)-cover.jpg",
           "screenshot": "What Remains (v1.0.2)-screenshot.jpg"
@@ -627,7 +627,7 @@
       },
       {
         "file": "Super Boss Gaiden (Japan).zip",
-        "size": 691075,
+        "size": 691083,
         "artwork": {
           "cover": "Super Boss Gaiden (Japan)-cover.jpg"
         }
@@ -676,7 +676,7 @@
     "roms": [
       {
         "file": "Swan Driving.zip",
-        "size": 1050,
+        "size": 29372,
         "artwork": {
           "screenshot": "Swan Driving-screenshot.jpg"
         }
@@ -688,7 +688,7 @@
     "roms": [
       {
         "file": "Celeste Classic (v1.0).zip",
-        "size": 845182,
+        "size": 993289,
         "artwork": {
           "cover": "Celeste Classic (v1.0)-cover.jpg"
         }
@@ -704,7 +704,7 @@
     "roms": [
       {
         "file": "Bottomless Block Barrage.zip",
-        "size": 1043464,
+        "size": 1120355,
         "artwork": {
           "cover": "Bottomless Block Barrage-cover.png",
           "screenshot": "Bottomless Block Barrage-screenshot.png"
@@ -826,7 +826,7 @@
     "roms": [
       {
         "file": "Deadeus.zip",
-        "size": 157116,
+        "size": 1598718,
         "artwork": {
           "cover": "Deadeus-cover.jpg",
           "screenshot": "Deadeus-screenshot.jpg"
@@ -838,7 +838,7 @@
       },
       {
         "file": "Gunman Clive (USA) (Demo).zip",
-        "size": 29149,
+        "size": 162421,
         "artwork": {
           "cover": "Gunman Clive (USA) (Demo)-cover.png",
           "screenshot": "Gunman Clive (USA) (Demo)-screenshot.jpg"
@@ -846,21 +846,21 @@
       },
       {
         "file": "Infinity (USA) (Preview).zip",
-        "size": 331170,
+        "size": 335799,
         "artwork": {
           "cover": "Infinity (USA) (Preview)-cover.png"
         }
       },
       {
         "file": "Kaiju Feeder.zip",
-        "size": 15699,
+        "size": 22929,
         "artwork": {
           "screenshot": "Kaiju Feeder-screenshot.jpg"
         }
       },
       {
         "file": "Mona And The Witch Hat.zip",
-        "size": 17667,
+        "size": 88118,
         "artwork": {
           "cover": "Mona And The Witch Hat-cover.jpg",
           "screenshot": "Mona And The Witch Hat-screenshot.jpg"
@@ -868,7 +868,7 @@
       },
       {
         "file": "PolkaSheep.zip",
-        "size": 23215,
+        "size": 40567,
         "artwork": {
           "cover": "PolkaSheep-cover.jpg",
           "screenshot": "PolkaSheep-screenshot.jpg"
@@ -876,7 +876,7 @@
       },
       {
         "file": "Pretty Princess' Castle Escape.zip",
-        "size": 17128,
+        "size": 18982,
         "artwork": {
           "cover": "Pretty Princess' Castle Escape-cover.png",
           "screenshot": "Pretty Princess' Castle Escape-screenshot.png"
@@ -884,7 +884,7 @@
       },
       {
         "file": "Sheep It Up.zip",
-        "size": 12944,
+        "size": 580243,
         "artwork": {
           "cover": "Sheep It Up-cover.jpg",
           "screenshot": "Sheep It Up-screenshot.jpg"
@@ -892,7 +892,7 @@
       },
       {
         "file": "Super Princess 2092 Exodus.zip",
-        "size": 29483,
+        "size": 51820,
         "artwork": {
           "cover": "Super Princess 2092 Exodus-cover.jpg",
           "screenshot": "Super Princess 2092 Exodus-screenshot.jpg"
@@ -900,7 +900,7 @@
       },
       {
         "file": "Tobu Tobu Girl.zip",
-        "size": 57001,
+        "size": 218215,
         "artwork": {
           "cover": "Tobu Tobu Girl-cover.jpg",
           "screenshot": "Tobu Tobu Girl-screenshot.jpg"
@@ -1309,7 +1309,7 @@
       },
       {
         "file": "Volgarr the Viking.zip",
-        "size": 38508789,
+        "size": 38754095,
         "artwork": {
           "cover": "Volgarr the Viking-cover.jpg"
         }
@@ -1330,7 +1330,7 @@
     "roms": [
       {
         "file": "Sheep It Up.zip",
-        "size": 2723,
+        "size": 35956,
         "artwork": {
           "cover": "Sheep It Up-cover.jpg",
           "screenshot": "Sheep It Up-screenshot.jpg"
