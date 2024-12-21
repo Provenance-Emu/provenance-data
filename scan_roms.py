@@ -135,6 +135,9 @@ def scan_roms_folder(base_path: str) -> Dict:
     base = Path(base_path)
     mapping = {}
 
+    # Define supported image formats
+    image_formats = ['.jpg', '.jpeg', '.png']
+
     # Scan each system folder
     for system_dir in base.iterdir():
         if not system_dir.is_dir():
@@ -157,20 +160,30 @@ def scan_roms_folder(base_path: str) -> Dict:
                 "size": file_path.stat().st_size
             }
 
-            # Check for artwork
+            # Check for artwork in different formats
             artwork = {}
-            cover_path = file_path.with_name(f"{rom_base}-cover.jpg")
-            screenshot_path = file_path.with_name(f"{rom_base}-screenshot.jpg")
 
-            if cover_path.exists():
-                artwork["cover"] = cover_path.name
-            if screenshot_path.exists():
-                artwork["screenshot"] = screenshot_path.name
+            # Check for cover art
+            for fmt in image_formats:
+                cover_path = file_path.with_name(f"{rom_base}-cover{fmt}")
+                if cover_path.exists():
+                    artwork["cover"] = cover_path.name
+                    break
+
+            # Check for screenshot
+            for fmt in image_formats:
+                screenshot_path = file_path.with_name(f"{rom_base}-screenshot{fmt}")
+                if screenshot_path.exists():
+                    artwork["screenshot"] = screenshot_path.name
+                    break
 
             if artwork:
                 rom_info["artwork"] = artwork
 
             roms_list.append(rom_info)
+
+        # Sort roms alphabetically by filename
+        roms_list.sort(key=lambda x: x['file'].lower())
 
         # Add system to mapping if it has ROMs
         if rom_count > 0:
