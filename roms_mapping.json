@@ -8,11 +8,11 @@
       },
       {
         "file": "Flappy Bird.zip",
-        "size": 540970
+        "size": 542077
       },
       {
         "file": "n64_controller_test.zip",
-        "size": 40502
+        "size": 38873
       },
       {
         "file": "N64probe (Button Test) by MooglyGuy (PD).zip",
@@ -21,15 +21,15 @@
     ]
   },
   "com.provenance.genesis": {
-    "count": 14,
+    "count": 13,
     "roms": [
+      {
+        "file": "240pTestSuite - MD Genesis.zip",
+        "size": 84665
+      },
       {
         "file": "Break An Egg.zip",
         "size": 88833
-      },
-      {
-        "file": "240pTestSuite-MD_Genesis-latest.zip",
-        "size": 95473
       },
       {
         "file": "Ultimate Tetris.zip",
@@ -37,15 +37,19 @@
       },
       {
         "file": "ot12.zip",
-        "size": 249622
+        "size": 241677
       },
       {
         "file": "aepd.zip",
-        "size": 246952
+        "size": 239686
+      },
+      {
+        "file": "POLYGAMe SMD Controller Test 2.0.zip",
+        "size": 35726
       },
       {
         "file": "gravibots.zip",
-        "size": 345276,
+        "size": 333037,
         "artwork": {
           "cover": "gravibots-cover.jpg",
           "screenshot": "gravibots-screenshot.jpg"
@@ -53,38 +57,30 @@
       },
       {
         "file": "30YearsOfNintendont.zip",
-        "size": 187987
-      },
-      {
-        "file": "POLYGAMe_SMD_controller_test 2.0.zip",
-        "size": 36629
+        "size": 182784
       },
       {
         "file": "glufPD.zip",
-        "size": 306515
+        "size": 293975
       },
       {
         "file": "Thunder Paw Demo.zip",
-        "size": 354951
+        "size": 346833
       },
       {
         "file": "Downforce (USA) (Demo).zip",
-        "size": 147930
-      },
-      {
-        "file": "240pTestSuite-Sega_Mega_CD-latest.zip",
-        "size": 5537593
+        "size": 144530
       },
       {
         "file": "tourmaline.zip",
-        "size": 214499,
+        "size": 206820,
         "artwork": {
           "cover": "tourmaline-cover.jpg"
         }
       },
       {
         "file": "FoxLand_Demo.zip",
-        "size": 257987
+        "size": 247388
       }
     ]
   },
@@ -93,7 +89,7 @@
     "roms": [
       {
         "file": "Alien Arena.zip",
-        "size": 4077538,
+        "size": 16557,
         "artwork": {
           "cover": "Alien Arena-cover.jpg",
           "screenshot": "Alien Arena-screenshot.jpg"
@@ -106,7 +102,7 @@
     "roms": [
       {
         "file": "4-Tris.zip",
-        "size": 16932,
+        "size": 10214,
         "artwork": {
           "cover": "4-Tris-cover.jpg",
           "screenshot": "4-Tris-screenshot.jpg"
@@ -118,7 +114,7 @@
     "count": 1,
     "roms": [
       {
-        "file": "Cube Test.zip",
+        "file": "Cube Test (PSP).zip",
         "size": 58524
       }
     ]
@@ -127,8 +123,8 @@
     "count": 1,
     "roms": [
       {
-        "file": "ButtonTest.zip",
-        "size": 4803
+        "file": "Button Test.zip",
+        "size": 4788
       }
     ]
   },
@@ -260,10 +256,6 @@
         }
       },
       {
-        "file": "Armor..zip",
-        "size": 3677
-      },
-      {
         "file": "Pitcher's Duel (USA) (Proto).zip",
         "size": 6571
       },
@@ -390,6 +382,10 @@
         "size": 3806
       },
       {
+        "file": "Armor Attack.zip",
+        "size": 3698
+      },
+      {
         "file": "Mr.zip",
         "size": 3845
       },
@@ -505,7 +501,7 @@
       },
       {
         "file": "Teletime (Homebrew).zip",
-        "size": 23506
+        "size": 16298
       },
       {
         "file": "NTSC Chroma Luma Crosstalk Test.zip",
@@ -521,7 +517,7 @@
       },
       {
         "file": "LJ65.zip",
-        "size": 28889
+        "size": 11043
       },
       {
         "file": "What Remains (v1.0.2).zip",
@@ -584,12 +580,15 @@
         "size": 1232370
       },
       {
-        "file": "Super Boss Gaiden (Japan).zip",
-        "size": 2780751
+        "file": "240pTestSuite SNES.zip",
+        "size": 231254
       },
       {
-        "file": "240pTestSuite-SNES-latest.zip",
-        "size": 243078
+        "file": "Super Boss Gaiden (Japan).zip",
+        "size": 691075,
+        "artwork": {
+          "cover": "Super Boss Gaiden (Japan)-cover.jpg"
+        }
       },
       {
         "file": "KeepingSNESalive.zip",
@@ -638,8 +637,8 @@
     "count": 1,
     "roms": [
       {
-        "file": "swandriving.zip",
-        "size": 1062
+        "file": "Swan Driving.zip",
+        "size": 1050
       }
     ]
   },
@@ -647,12 +646,12 @@
     "count": 2,
     "roms": [
       {
-        "file": "GBAUtilityTools.zip",
-        "size": 92430
+        "file": "GBA Utility Tools.zip",
+        "size": 91623
       },
       {
         "file": "Celeste Classic (v1.0).zip",
-        "size": 809112,
+        "size": 845182,
         "artwork": {
           "cover": "Celeste Classic (v1.0)-cover.jpg"
         }
@@ -693,7 +692,7 @@
       },
       {
         "file": "Stele.zip",
-        "size": 12521
+        "size": 12763
       },
       {
         "file": "Doors of Doom.zip",
@@ -748,7 +747,7 @@
     "roms": [
       {
         "file": "240pTestSuite-PCE_TG16-SuperCDROM-latest.zip",
-        "size": 9220622
+        "size": 7694023
       },
       {
         "file": "Flappy Bird.zip",
@@ -760,11 +759,11 @@
       },
       {
         "file": "240pTestSuite-PCE_TG16-HuCard-latest.zip",
-        "size": 1521440
+        "size": 74796
       },
       {
         "file": "240pTestSuite-PCE_TG16-CDROM-latest.zip",
-        "size": 9288017
+        "size": 7761455
       }
     ]
   },
@@ -782,7 +781,7 @@
     "roms": [
       {
         "file": "PolkaSheep.zip",
-        "size": 22762,
+        "size": 23215,
         "artwork": {
           "cover": "PolkaSheep-cover.jpg",
           "screenshot": "PolkaSheep-screenshot.jpg"
@@ -790,7 +789,7 @@
       },
       {
         "file": "Mona And The Witch Hat.zip",
-        "size": 18059,
+        "size": 17667,
         "artwork": {
           "cover": "Mona And The Witch Hat-cover.jpg",
           "screenshot": "Mona And The Witch Hat-screenshot.jpg"
@@ -798,7 +797,7 @@
       },
       {
         "file": "Sheep It Up.zip",
-        "size": 13133,
+        "size": 12944,
         "artwork": {
           "cover": "Sheep It Up-cover.jpg",
           "screenshot": "Sheep It Up-screenshot.jpg"
@@ -806,7 +805,7 @@
       },
       {
         "file": "Infinity (USA) (Preview).zip",
-        "size": 360384
+        "size": 331170
       },
       {
         "file": "Super Princess 2092 Exodus.zip",
@@ -822,7 +821,10 @@
       },
       {
         "file": "demo.zip",
-        "size": 37598
+        "size": 37598,
+        "artwork": {
+          "cover": "demo-cover.jpg"
+        }
       },
       {
         "file": "Deadeus.zip",
@@ -1239,7 +1241,7 @@
     "roms": [
       {
         "file": "Volgarr the Viking.zip",
-        "size": 38438801,
+        "size": 38508789,
         "artwork": {
           "cover": "Volgarr the Viking-cover.jpg"
         }
@@ -1249,8 +1251,8 @@
         "size": 169116
       },
       {
-        "file": "240pTestSuite-Dreamcast-latest.zip",
-        "size": 1437681
+        "file": "240pTestSuite Dreamcast.zip",
+        "size": 1424879
       }
     ]
   },
@@ -1258,8 +1260,8 @@
     "count": 1,
     "roms": [
       {
-        "file": "demo.zip",
-        "size": 357515
+        "file": "Demo (Saturn).zip",
+        "size": 73629
       }
     ]
   },
@@ -1268,7 +1270,7 @@
     "roms": [
       {
         "file": "Sheep It Up.zip",
-        "size": 2729,
+        "size": 2723,
         "artwork": {
           "cover": "Sheep It Up-cover.jpg",
           "screenshot": "Sheep It Up-screenshot.jpg"
@@ -1281,7 +1283,7 @@
     "roms": [
       {
         "file": "240pTestSuite-PCE_TG16-SuperCDROM-latest.zip",
-        "size": 9220622
+        "size": 7694023
       },
       {
         "file": "Flappy Bird.zip",
@@ -1293,11 +1295,11 @@
       },
       {
         "file": "240pTestSuite-PCE_TG16-HuCard-latest.zip",
-        "size": 1521440
+        "size": 74796
       },
       {
         "file": "240pTestSuite-PCE_TG16-CDROM-latest.zip",
-        "size": 9288017
+        "size": 7761455
       }
     ]
   },
@@ -1306,7 +1308,7 @@
     "roms": [
       {
         "file": "240pTestSuite-Wii-latest.zip",
-        "size": 1456277
+        "size": 1445577
       },
       {
         "file": "240pTestSuite-GameCube-latest.zip",
@@ -1314,11 +1316,11 @@
       },
       {
         "file": "Super Methane Brothers.zip",
-        "size": 3584060
+        "size": 3598386
       },
       {
         "file": "VC_Test_v1.zip",
-        "size": 1178976
+        "size": 1156454
       }
     ]
   }
