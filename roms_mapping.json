@@ -92,7 +92,10 @@
       },
       {
         "file": "Thunder Paw Demo.zip",
-        "size": 346833
+        "size": 346833,
+        "artwork": {
+          "cover": "Thunder Paw Demo-cover.jpg"
+        }
       },
       {
         "file": "tourmaline.zip",
