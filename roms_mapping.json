@@ -140,11 +140,44 @@
     ]
   },
   "com.provenance.psp": {
-    "count": 1,
+    "count": 5,
     "roms": [
       {
-        "file": "Cube Test (PSP).zip",
-        "size": 58524
+        "file": "Cuphead Alpha 0.8.2 (PSP).zip",
+        "size": 11012633,
+        "artwork": {
+          "screenshot": "Cuphead Alpha 0.8.2 (PSP)-screenshot.png"
+        }
+      },
+      {
+        "file": "Dino Run (PSP).zip",
+        "size": 2804008,
+        "artwork": {
+          "cover": "Dino Run (PSP)-cover.png",
+          "screenshot": "Dino Run (PSP)-screenshot.png"
+        }
+      },
+      {
+        "file": "Friday Night Funkin (PSP).zip",
+        "size": 9316550,
+        "artwork": {
+          "screenshot": "Friday Night Funkin (PSP)-screenshot.png"
+        }
+      },
+      {
+        "file": "Golden Guy in a Dungeon (PSP).zip",
+        "size": 2318015,
+        "artwork": {
+          "screenshot": "Golden Guy in a Dungeon (PSP)-screenshot.png"
+        }
+      },
+      {
+        "file": "Plants vs Zombies 0.4.0 (PSP).zip",
+        "size": 29347446,
+        "artwork": {
+          "cover": "Plants vs Zombies 0.4.0 (PSP)-cover.png",
+          "screenshot": "Plants vs Zombies 0.4.0 (PSP)-screenshot.png"
+        }
       }
     ]
   },
