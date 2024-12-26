@@ -846,8 +846,12 @@
     ]
   },
   "com.provenance.colecovision": {
-    "count": 1,
+    "count": 2,
     "roms": [
+      {
+        "file": "240P Test Suite (Colecovision).col.zip",
+        "size": 17765
+      },
       {
         "file": "Bruce's Controller Tester (v1.0).zip",
         "size": 967
@@ -855,8 +859,15 @@
     ]
   },
   "com.provenance.gb": {
-    "count": 11,
+    "count": 12,
     "roms": [
+      {
+        "file": "144P Test Suite (GB 240p).zip",
+        "size": 203359,
+        "artwork": {
+          "cover": "144P Test Suite (GB 240p)-cover.jpg"
+        }
+      },
       {
         "file": "Deadeus.zip",
         "size": 1598718,
