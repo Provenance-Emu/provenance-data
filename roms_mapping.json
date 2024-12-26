@@ -139,6 +139,15 @@
       }
     ]
   },
+  "com.provenance.sg1000": {
+    "count": 1,
+    "roms": [
+      {
+        "file": "240P Test Suite (SG-1000).sg.zip",
+        "size": 15068
+      }
+    ]
+  },
   "com.provenance.psp": {
     "count": 5,
     "roms": [
