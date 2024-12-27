@@ -1,7 +1,15 @@
 {
   "com.provenance.n64": {
-    "count": 4,
+    "count": 6,
     "roms": [
+      {
+        "file": "240p Test Suite (N64).zip",
+        "size": 133252
+      },
+      {
+        "file": "240p Test Suite Newer (N64).zip",
+        "size": 358090
+      },
       {
         "file": "Flappy Bird.zip",
         "size": 542077
