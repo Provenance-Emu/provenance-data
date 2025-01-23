@@ -13,6 +13,12 @@
         "minBuildNumber": "100",
         "allowedAppTypes": ["standard", "lite", "standard.appstore", "lite.appstore"],
         "description": "Enables ROM path migration functionality. Currently disabled for all builds."
+      },
+      "cheatsUseSwiftUI": {
+        "enabled": false,
+        "minVersion": "3.0.3",
+        "allowedAppTypes": ["standard", "lite", "standard.appstore", "lite.appstore"],
+        "description": "Uses the new SwiftUI interface for the cheats management system"
       }
     }
   }
