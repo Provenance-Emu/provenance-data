@@ -19,6 +19,12 @@
         "minVersion": "3.0.3",
         "allowedAppTypes": ["standard", "lite", "standard.appstore", "lite.appstore"],
         "description": "Uses the new SwiftUI interface for the cheats management system"
+      },
+      "retroarchBuiltinEditor": {
+        "enabled": false,
+        "minVersion": "3.0.5",
+        "allowedAppTypes": ["standard", "lite"],
+        "description": "Enables the built-in RetroArch editor. Disabled for App Store builds."
       }
     }
   }
