@@ -25,6 +25,12 @@
         "minVersion": "3.0.5",
         "allowedAppTypes": ["standard", "lite"],
         "description": "Enables the built-in RetroArch editor. Disabled for App Store builds."
+      },
+      "advancedSkinFeatures": {
+        "enabled": false,
+        "minVersion": "3.0.5",
+        "allowedAppTypes": ["standard", "lite", "standard.appstore", "lite.appstore"],
+        "description": "Enables advanced skin features like filters and debug mode"
       }
     }
   }
