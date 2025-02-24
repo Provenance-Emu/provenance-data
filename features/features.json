@@ -31,6 +31,12 @@
         "minVersion": "3.0.5",
         "allowedAppTypes": ["standard", "lite", "standard.appstore", "lite.appstore"],
         "description": "Enables advanced skin features like filters and debug mode"
+      },
+      "contentlessCores": {
+        "enabled": false,
+        "minVersion": "3.0.5",
+        "allowedAppTypes": ["standard", "lite", "standard.appstore", "lite.appstore"],
+        "description": "Enables contentless cores like DOOM, Quake, etc. Disabled for App Store builds."
       }
     }
   }
