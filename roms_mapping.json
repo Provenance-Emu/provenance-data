@@ -28,7 +28,7 @@
       },
       {
         "file": "sfdn64.zip",
-        "size": 1624813
+        "size": 1583571
       }
     ]
   },
@@ -207,7 +207,7 @@
     "roms": [
       {
         "file": "bbobble.zip",
-        "size": 26960,
+        "size": 26968,
         "artwork": {
           "screenshot": "bbobble-screenshot.jpg"
         }
@@ -218,7 +218,7 @@
       },
       {
         "file": "marble.zip",
-        "size": 67744,
+        "size": 67752,
         "artwork": {
           "cover": "marble-cover.jpg",
           "screenshot": "marble-screenshot.jpg"
@@ -774,7 +774,7 @@
     "count": 3,
     "roms": [
       {
-        "file": "asteriod.zip",
+        "file": "asteroid.zip",
         "size": 30146
       },
       {
