@@ -771,8 +771,12 @@
     ]
   },
   "com.provenance.gba": {
-    "count": 2,
+    "count": 3,
     "roms": [
+      {
+        "file": "asteriod.zip",
+        "size": 30146
+      },
       {
         "file": "Celeste Classic (v1.0).zip",
         "size": 993289,
