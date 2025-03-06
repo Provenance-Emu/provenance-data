@@ -1,6 +1,6 @@
 {
   "com.provenance.n64": {
-    "count": 6,
+    "count": 7,
     "roms": [
       {
         "file": "240p Test Suite (N64).zip",
@@ -25,6 +25,10 @@
       {
         "file": "N64probe by MooglyGuy (PD).zip",
         "size": 42132
+      },
+      {
+        "file": "sfdn64.zip",
+        "size": 1624813
       }
     ]
   },
@@ -198,6 +202,30 @@
       }
     ]
   },
+  "com.provenance.lynx": {
+    "count": 3,
+    "roms": [
+      {
+        "file": "bbobble.zip",
+        "size": 26960,
+        "artwork": {
+          "screenshot": "bbobble-screenshot.jpg"
+        }
+      },
+      {
+        "file": "fightv2.zip",
+        "size": 27428
+      },
+      {
+        "file": "marble.zip",
+        "size": 67744,
+        "artwork": {
+          "cover": "marble-cover.jpg",
+          "screenshot": "marble-screenshot.jpg"
+        }
+      }
+    ]
+  },
   "com.provenance.gg": {
     "count": 1,
     "roms": [
@@ -227,6 +255,19 @@
         "size": 415538,
         "artwork": {
           "cover": "240pTestSuitePS1-EMU-cover.jpg"
+        }
+      }
+    ]
+  },
+  "com.provenance.ds": {
+    "count": 1,
+    "roms": [
+      {
+        "file": "ExplosiveGas.zip",
+        "size": 2594932,
+        "artwork": {
+          "cover": "ExplosiveGas-cover.jpg",
+          "screenshot": "ExplosiveGas-screenshot.jpg"
         }
       }
     ]
