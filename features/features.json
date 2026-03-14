@@ -37,6 +37,12 @@
         "minVersion": "3.0.5",
         "allowedAppTypes": ["standard", "lite", "standard.appstore", "lite.appstore"],
         "description": "Enables contentless cores like DOOM, Quake, etc. Disabled for App Store builds."
+      },
+      "dynamicLibretroScanner": {
+        "enabled": false,
+        "minVersion": "3.3.0",
+        "allowedAppTypes": ["standard", "lite", "standard.appstore", "lite.appstore"],
+        "description": "Scans Frameworks/ at startup for bare .libretro.framework dylibs and registers them as thin-wrapper cores (no RetroArch binary required). Off by default — enable in Settings > Advanced > Feature Flags to test."
       }
     }
   }
